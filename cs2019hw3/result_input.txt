@@ -1,0 +1,6 @@
+Summary
+-------
+number of items: 10
+most expensive item: watermelon (11.99)
+cheapest item: raspberries (2.99)
+average price of items: 6.49
